@@ -41,4 +41,10 @@ link:https://www.netapp.com/pdf.html?item=/media/11887-patentspage.pdf["https://
 
 link:https://www.netapp.com/company/legal/privacy-policy/["https://www.netapp.com/company/legal/privacy-policy/"^]
 
+
+
+== Source ouverte
+
+Les fichiers de notification fournissent des informations sur les droits d'auteur et les licences de tiers utilisés dans le logiciel NetApp.
+
 https://library.netapp.com/ecm/ecm_download_file/ECMLP2875811["Avis concernant les outils ONTAP pour VMware vSphere 9.8"^]
